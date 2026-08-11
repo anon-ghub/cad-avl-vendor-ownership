@@ -16,3 +16,4 @@
 | TripShot | Transit Technologies |  |   |  |
 | Consat | Consat |  |   |  |
 | Pysae | Pysae |  |   |  |
+| Swiftly | Cove Hill Partners, JMI Equity |  |   |  |
